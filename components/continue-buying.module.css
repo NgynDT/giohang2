@@ -1,0 +1,33 @@
+.continueBuyingChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.tipTcMua {
+  position: absolute;
+  height: 44.9%;
+  width: 90.97%;
+  top: 28.57%;
+  left: 3.82%;
+  line-height: 24px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.continueBuying {
+  width: 288px;
+  height: 49px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-work-sans);
+}

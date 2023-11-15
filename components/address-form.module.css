@@ -1,0 +1,68 @@
+.ngNguynDu {
+  position: absolute;
+  top: 0;
+  left: 54px;
+  line-height: 30px;
+  display: inline-block;
+  width: 367px;
+  height: 66px;
+}
+.clothesIcon {
+  position: absolute;
+  top: 9.9px;
+  left: 0;
+  width: 45px;
+  height: 46.2px;
+  object-fit: cover;
+}
+.ngCmt8QunTnBnhThnhParent,
+.ngNguynDuQun1ThnhPhParent {
+  position: absolute;
+  top: 37.4px;
+  left: 0;
+  width: 421px;
+  height: 66px;
+}
+.ngCmt8QunTnBnhThnhParent {
+  top: 107.8px;
+}
+.span {
+  text-decoration: underline;
+}
+.linH0969404274 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 30px;
+  display: inline-block;
+  width: 421px;
+  height: 33px;
+}
+.contactUs,
+.linH0969404274Wrapper {
+  position: absolute;
+  top: 188px;
+  left: 10px;
+  width: 421px;
+  height: 33px;
+}
+.contactUs {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-5xl);
+  text-decoration: underline;
+  line-height: 30px;
+  display: inline-block;
+  width: 175px;
+}
+.address {
+  position: absolute;
+  top: 161px;
+  left: 87px;
+  width: 431px;
+  height: 221px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-work-sans);
+}

@@ -1,0 +1,73 @@
+.footer1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 451px;
+}
+.footerChild {
+  top: 18px;
+  left: 618px;
+  width: 205px;
+  height: 70px;
+  object-fit: cover;
+}
+.aboutUs,
+.footerChild,
+.tHngV {
+  position: absolute;
+}
+.tHngV {
+  top: 107px;
+  left: 518px;
+  line-height: 24px;
+}
+.aboutUs {
+  top: 0;
+  text-decoration: underline;
+  width: 175px;
+}
+.aboutUs,
+.giiThiu,
+.hngDnMua {
+  left: 0;
+  line-height: 30px;
+  display: inline-block;
+  height: 33px;
+}
+.giiThiu {
+  position: absolute;
+  top: 52px;
+  width: 175px;
+}
+.hngDnMua {
+  top: 100px;
+}
+.address,
+.chnhSchI,
+.hngDnMua {
+  position: absolute;
+  width: 266px;
+}
+.chnhSchI {
+  top: 148px;
+  left: 0;
+  line-height: 30px;
+  display: inline-block;
+  height: 33px;
+}
+.address {
+  top: 168px;
+  left: 657px;
+  height: 181px;
+  text-align: left;
+}
+.footer {
+  width: 1440px;
+  height: 451px;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-work-sans);
+}

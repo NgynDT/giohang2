@@ -1,0 +1,25 @@
+.totalChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-51xl);
+  background-color: var(--color-red);
+}
+.tngTinThanh {
+  position: absolute;
+  top: 32.88%;
+  left: 27.03%;
+  line-height: 24px;
+}
+.total {
+  width: 444px;
+  height: 73px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-work-sans);
+}

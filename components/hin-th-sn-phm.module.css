@@ -1,0 +1,159 @@
+.hinThSnPhmChild {
+  position: absolute;
+  height: 8.3%;
+  width: 1.45%;
+  top: 42.32%;
+  right: 35.07%;
+  bottom: 49.38%;
+  left: 63.48%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div,
+.div1 {
+  position: absolute;
+  top: 39.71%;
+  left: 46.59%;
+  line-height: 24px;
+  font-weight: 600;
+  transform: rotate(-1.49deg);
+  transform-origin: 0 0;
+}
+.div1 {
+  top: 40.95%;
+  left: 79.86%;
+}
+.image1Icon {
+  position: absolute;
+  height: 77.59%;
+  width: 13.04%;
+  top: 11.2%;
+  right: 82.97%;
+  bottom: 11.2%;
+  left: 3.99%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.hinThSnPhmItem {
+  position: absolute;
+  height: 100%;
+  width: 21.3%;
+  top: 0;
+  right: 78.7%;
+  bottom: 0;
+  left: 0;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.hinThSnPhmChild1,
+.hinThSnPhmChild2,
+.hinThSnPhmChild3,
+.hinThSnPhmInner,
+.rectangleDiv {
+  position: absolute;
+  height: 99.59%;
+  width: 21.59%;
+  top: 0;
+  right: 57.17%;
+  bottom: 0.41%;
+  left: 21.23%;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.hinThSnPhmChild1,
+.hinThSnPhmChild2,
+.hinThSnPhmChild3,
+.rectangleDiv {
+  width: 13.41%;
+  right: 43.77%;
+  left: 42.83%;
+}
+.hinThSnPhmChild1,
+.hinThSnPhmChild2,
+.hinThSnPhmChild3 {
+  width: 17.68%;
+  right: 26.16%;
+  left: 56.16%;
+}
+.hinThSnPhmChild2,
+.hinThSnPhmChild3 {
+  width: 16.01%;
+  right: 10.14%;
+  left: 73.84%;
+}
+.hinThSnPhmChild3 {
+  width: 10.22%;
+  right: 0;
+  left: 89.78%;
+}
+.lineBoxyRaglan {
+  position: absolute;
+  top: 39.83%;
+  left: 23.7%;
+  line-height: 24px;
+  font-weight: 600;
+}
+.hinThSnPhmChild4,
+.hinThSnPhmChild5 {
+  position: absolute;
+  height: 8.3%;
+  width: 1.45%;
+  top: 42.32%;
+  right: 38.55%;
+  bottom: 49.38%;
+  left: 60%;
+  background-color: var(--color-gainsboro);
+}
+.hinThSnPhmChild5 {
+  right: 31.67%;
+  left: 66.88%;
+}
+.div2 {
+  height: 8.3%;
+  width: 0.65%;
+  left: 67.32%;
+  line-height: 24px;
+  font-weight: 600;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.div2,
+.div3,
+.iconTrash {
+  position: absolute;
+  top: 42.32%;
+}
+.div3 {
+  height: 8.3%;
+  width: 0.65%;
+  left: 60.43%;
+  line-height: 24px;
+  font-weight: 600;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.iconTrash {
+  height: 15.35%;
+  width: 2.61%;
+  right: 3.84%;
+  bottom: 42.32%;
+  left: 93.55%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.hinThSnPhm {
+  width: 1380px;
+  height: 241px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-work-sans);
+}
